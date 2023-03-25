@@ -522,7 +522,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ff9e9e;
+  background: #989898;
   margin: 4px 10px;
 }
 
@@ -533,7 +533,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -643,7 +643,7 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  border: 1px solid #ebebeb;
+  border: 1px solid #000000;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -663,7 +663,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #ffffff;
+  color: #000000;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -675,12 +675,12 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #ffffff;
+  color: #000000;
   transition: ease-in-out 0.3s;
 }
 
 .services .icon-box h4 a:hover {
-  color: #ffffff;
+  color: #7e7c7cb0;
 }
 
 .services .icon-box p {
